@@ -3,7 +3,7 @@
 </a>
 
 # Membuat Landsat Timelapse
-Membuat animasi timelapse untuk suatu wilayah menggunakan Citra Landsat.<br/>
+Membuat animasi timelapse dalam bentuk GIF dan MP4 untuk suatu wilayah menggunakan Citra Landsat.<br/>
 
 ## Persyaratan:
 Anda harus memiliki akun Google Earth Engine untuk menjalankan kode ini.<br/>
