@@ -1,4 +1,4 @@
-<a target="_blank" href="https://github.com/syamaniulm/landsat-timelapse/blob/main/Landsat_Timelapse.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/syamaniulm/landsat-timelapse/blob/main/Landsat_Timelapse.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
